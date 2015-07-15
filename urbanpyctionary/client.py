@@ -6,7 +6,7 @@ client.py
 Declares various objects that wrap concepts in the API wrapper.
 """
 
-__version__ = "0.81"
+__version__ = "0.85"
 
 from datetime import datetime
 import requests

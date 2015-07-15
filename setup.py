@@ -10,8 +10,12 @@ from urbanpyctionary.client import __version__
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the relevant file
-with open(path.join(here, 'DESCRIPTION.rst'), encoding='utf-8') as f:
-    long_description = f.read()
+
+long_description = """
+UrbanPyctionary is a Python package that allows you to query the Urban Dictionary 'secret' API. It allows you to query
+Urban Dictionary and returns an easy-to-handle iterable wrapper object of results. UrbanPyctionary comes with a
+gorgeous CLI that allows you to query from the command line!
+"""
 
 setup(
     name='urbanpyctionary',

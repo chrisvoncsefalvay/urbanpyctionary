@@ -1,6 +1,8 @@
-About UrbanPyctionary .. image:: https://travis-ci.org/chrisvoncsefalvay/urbanpyctionary.svg?branch=master
+About UrbanPyctionary 
+---------------------
+.. image:: https://travis-ci.org/chrisvoncsefalvay/urbanpyctionary.svg?branch=master
     :target: https://travis-ci.org/chrisvoncsefalvay/urbanpyctionary
----------------------------------------------------------------------------------
+
 
 UrbanPyctionary is a Python package that allows you to query the Urban Dictionary 'secret' API. This is an indirect API
 offered through Mashape, and as such, you will need an application-specific Mashape credential.

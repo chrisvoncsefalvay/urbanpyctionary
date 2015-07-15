@@ -73,3 +73,7 @@ Using the ``browse()`` method allows you to inspect the content of a definition:
     'thumbs_up': 118,
     'word': 'python'}
 
+Using the CLI
+-------------
+
+(to be written)

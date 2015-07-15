@@ -1,4 +1,5 @@
-About UrbanPyctionary .. image:: https://travis-ci.org/chrisvoncsefalvay/urbanpyctionary.svg?branch=master
+About UrbanPyctionary 
+.. image:: https://travis-ci.org/chrisvoncsefalvay/urbanpyctionary.svg?branch=master
     :target: https://travis-ci.org/chrisvoncsefalvay/urbanpyctionary
 ---------------------------------------------------------------------------------
 
